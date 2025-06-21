@@ -1,0 +1,67 @@
+[
+  {
+    "movie": {
+      "id": 1,
+      "title": "The Avengers",
+      "director": "Joss Whedon",
+      "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "release": 2012,
+      "rating": 4.2,
+      "trending": true
+    },
+    "foundBy": "title"
+  },
+  {
+    "movie": {
+      "id": 2,
+      "title": "Superman Returns",
+      "director": "Bryan Singer",
+      "actors": "Brandon Routh, Kate Bosworth, Kevin Spacey, James Marsden",
+      "description": "Superman returns to Earth after spending five years in space examining his homeworld Krypton. But he finds things have changed while he was gone, and he must once again prove himself important to the world.",
+      "release": 2006,
+      "rating": 2.9,
+      "trending": true
+    },
+    "foundBy": "title"
+  },
+  {
+    "movie": {
+      "id": 3,
+      "title": "Steel",
+      "director": "Kenneth Johnson",
+      "actors": "Shaquille O'Neal, Annabeth Gish, Judd Nelson, Richard Roundtree",
+      "description": "A scientist for the military turns himself into a cartoon-like superhero when a version of one of his own weapons is being used against enemies.",
+      "release": 1997,
+      "rating": 2.1,
+      "trending": false
+    },
+    "foundBy": "description"
+  },
+  {
+    "movie": {
+      "id": 4,
+      "title": "Unbreakable",
+      "director": "M. Night Shyamalan",
+      "actors": "Bruce Willis, Samuel L. Jackson, Robin Wright, Spencer Treat Clark",
+      "description": "A man learns something extraordinary about himself after a devastating accident.",
+      "release": 2000,
+      "rating": 5,
+      "trending": false
+    },
+    "foundBy": "title"
+  },
+  {
+    "movie": {
+      "id": 5,
+      "title": "Rocketeer",
+      "director": "Jay Light",
+      "actors": "Christopher Coakley",
+      "description": "N/A",
+      "release": 2012,
+      "rating": 4,
+      "trending": false
+    },
+    "foundBy": "description"
+  }
+]
